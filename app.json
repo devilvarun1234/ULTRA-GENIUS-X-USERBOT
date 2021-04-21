@@ -1,8 +1,9 @@
+༆༆#1♥╣[-_-]╠♥ DETECTIVE SAMMY┌(★ｏ☆)┘╮(. ❛ ❛.):
 {
-  "name": "𝐒𝐀𝐕𝐀𝐆𝐄 𝐁𝐎𝐓",              
-  "description": "The best userbot made by @SAMEER_795 🤗. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @SAVAGE_TEAM_USERBOT",
+  "name": "𝗚𝗘𝗡𝗜𝗢𝗨𝗦 𝗕𝗢𝗧",              
+  "description": "The best userbot made by human 🤗. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support contact @owner_detective_varun",
   
-  "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
+  "logo": "https://telegra.ph/file/d2993aa982a9bc0f40752.jpg",
   "keywords": [
    "telegram",
    "userbot",
@@ -10,8 +11,8 @@
    "modular",
    "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/SAVAGE-IS-BACK",
-  "website": "https://github.com/sameerpanthi/SAVAGE-IS-BACK",
+  "repository": "https://github.com/devilvarun/GENIUS-BOT",
+  "website": "https://github.com/devilvarun/GENIUS-BOT",
   "success_url": "https://t.me/savage_team_userbot",
   "stack": "container",
   "env": {
@@ -109,7 +110,8 @@
     "required": false
    },
    "PRIVATE_GROUP_ID": {
-    "description": "Same value as PRIVATE_GROUP_BOT_API_ID. Must read https://telegra.ph/userbot-Setup-06-06 for knowing how to get the value. Required for pmpermit.",
+
+"description": "Same value as PRIVATE_GROUP_BOT_API_ID. Must read https://telegra.ph/userbot-Setup-06-06 for knowing how to get the value. Required for pmpermit.",
     "value": "",
     "required": true
    },
@@ -173,3 +175,4 @@
   }]
  }
  
+© 2021 GitHub, Inc.
