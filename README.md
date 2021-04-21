@@ -1,10 +1,10 @@
-SAVAGE_BOT 🔥
+ULTRA GENIUS X_BOT 🔥
 
 
 
 <p align="center">
 
-<img src="https://telegra.ph/file/177228bdfd09ae95d34a6.jpg">
+<img src="https://telegra.ph/file/3edccc4fe79c916ae6d38.jpg">
 
 -------------------------------------------------
 
@@ -27,7 +27,7 @@ SAVAGE_BOT 🔥
 
 -------------------------------------------------
 
-匚尺乇卂ㄒㄖ尺 : [丂卂爪乇乇尺](https://t.me/SAMEER_795)
+匚尺乇卂ㄒㄖ尺 : [DETECTIVE VARUN](https://t.me/SAMEER_795)
 
 -------------------------------------------------
 
