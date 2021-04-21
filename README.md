@@ -27,7 +27,7 @@ ULTRA GENIUS X_BOT 🔥
 
 -------------------------------------------------
 
-匚尺乇卂ㄒㄖ尺 : [DETECTIVE VARUN](https://t.me/SAMEER_795)
+匚尺乇卂ㄒㄖ尺 : [DETECTIVE VARUN](https://t.me/https://t.me/owner_detective_varun)
 
 -------------------------------------------------
 
