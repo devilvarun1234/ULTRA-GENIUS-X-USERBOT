@@ -41,8 +41,8 @@ ULTRA GENIUS X_BOT 🔥
 
 ## FOR DEPLOY BOT 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/SAVAGE-IS-BACK)
-
+[![Deploy To Heroku](https://ultrageniususerbot.herokuapp.com//deploy/button.svg)](?template=https://github.com/devilvarun/ULTRA-GENIUS-X-USERBOT)
+I
 ------------------------------------------------
 
 TAKE STRING FROM HERE -
