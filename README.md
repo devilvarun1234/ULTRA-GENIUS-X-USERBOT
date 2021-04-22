@@ -41,7 +41,7 @@ ULTRA GENIUS X_BOT 🔥
 
 ## FOR DEPLOY BOT 
 
-[![Deploy To Heroku](https://ultrageniususerbot.herokuapp.com//deploy/button.svg)](?template=https://github.com/devilvarun/ULTRA-GENIUS-X-USERBOT)
+[![Deploy To Heroku](https://www.herokucdn.com//deploy/button.svg)](?template=https://github.com/devilvarun/ULTRA-GENIUS-X-USERBOT)
 I
 ------------------------------------------------
 
